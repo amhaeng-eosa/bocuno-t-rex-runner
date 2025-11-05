@@ -1561,8 +1561,8 @@
      */
     Trex.config = {
         DROP_VELOCITY: -10,
-        GRAVITY: 0.7,
-        HEIGHT: 54,
+        GRAVITY: 0.23,
+        HEIGHT: 7,
         HEIGHT_DUCK: 25,
         INIITAL_JUMP_VELOCITY: -10,
         INTRO_DURATION: 1500,
